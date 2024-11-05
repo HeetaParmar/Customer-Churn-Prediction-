@@ -414,14 +414,4 @@ round(862/(862+137),2)
 round(229/(229+179),2)
 
 
-# **Exercise**
-
-# In[ ]:
-
-
-Take this dataset for bank customer churn prediction : https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling
-
-1) Build a deep learning model to predict churn rate at bank. 
-
-2) Once model is built, print classification report and analyze precision, recall and f1-score 
 
